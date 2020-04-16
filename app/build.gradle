@@ -43,5 +43,5 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
 
-    implementation 'com.github.GetStream:stream-chat-android:3.3.0'
+    implementation 'com.github.GetStream:stream-chat-android:3.6.9'
 }
